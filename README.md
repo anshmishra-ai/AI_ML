@@ -1,2 +1,2 @@
 # AI_ML
-AIml is exist
+AIml is exists
